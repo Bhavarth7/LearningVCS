@@ -258,4 +258,5 @@
 - [Karan Chhabra](https://github.com/karankc23)
 - [Sanjeet](https://github.com/sinifaa)
 
--[Bhavarth Bhangdia](htpps://github.com/Bhavarth7)
+
+-[Bhavarth Bhangdia](https://github.com/Bhavarth7)
